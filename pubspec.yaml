@@ -1,0 +1,13 @@
+name: scanner_ventas
+description: App tipo escáner de ventas
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mobile_scanner: ^4.0.1
+  http: ^0.13.5
+  url_launcher: ^6.1.7
