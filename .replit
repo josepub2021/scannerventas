@@ -3,6 +3,7 @@ modules = ["dart-3.3"]
 
 [nix]
 channel="stable-24_05"
+packages = ["flutter"]
 
 [deployment]
 run = ["dart", "main.dart"]
